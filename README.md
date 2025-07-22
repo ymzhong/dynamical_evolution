@@ -1,12 +1,12 @@
 # Dynamical Evolution Timescales
 
-Data for Figure 7 in ["Dynamical Evolutions in Globular Clusters and Dwarf Galaxies: Conduction Fluid Simulations"](https://arxiv.org/pdf/2505.18251).
+Data for Figure 7 in ["Dynamical Evolutions in Globular Clusters and Dwarf Galaxies: Conduction Fluid Simulations"](https://arxiv.org/abs/2505.18251).
 
 ## Plot
 
 ![Dynamical evolution timescales](./timescale.png)
 
-*Evolution timescales (t₀ʰ) vs dynamical mass (M_dyn) for globular clusters and dwarf galaxies.*
+*Typical Dynamical Evolution timescales (t₀ʰ) vs dynamical mass (M_dyn) for globular clusters and dwarf galaxies.*
 
 ## Data Files
 
@@ -24,7 +24,7 @@ Data for Figure 7 in ["Dynamical Evolutions in Globular Clusters and Dwarf Galax
 
 ## Citation
 
-If you use this data, please cite: [arXiv:2505.18251](https://arxiv.org/pdf/2505.18251)
+If you use this data, please cite: [arXiv:2505.18251](https://arxiv.org/abs/2505.18251)
 
 ## Contact
 
