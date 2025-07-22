@@ -4,7 +4,7 @@ Data for Figure 7 in ["Dynamical Evolutions in Globular Clusters and Dwarf Galax
 
 ## Plot
 
-![Dynamical evolution timescales](./timescale.pdf)
+![Dynamical evolution timescales](./timescale.png)
 
 *Evolution timescales (t₀ʰ) vs dynamical mass (M_dyn) for globular clusters and dwarf galaxies.*
 
